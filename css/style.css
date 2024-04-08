@@ -46,7 +46,7 @@ nav ul li a {
 
 #hero {
     height: 600px;
-    background-image: url(/images/hands-typing.jpg);
+    background-image: url(../images/hands-typing.jpg);
     background-position: center;
     background-size: cover;
     filter: grayscale(70%);
